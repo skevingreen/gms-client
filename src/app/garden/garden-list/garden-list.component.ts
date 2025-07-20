@@ -56,7 +56,7 @@ import { debounceTime } from 'rxjs';
           </tbody>
         </table>
       } @else {
-        <p class="garden-page__no-gardens">No gardens found, consider adding one...</p>"
+        <p class="garden-page__no-gardens">No gardens found, consider adding one...</p>
       }
     </div>
 `,
