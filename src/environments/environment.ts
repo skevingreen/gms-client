@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiBaseUrl: 'http://localhost:3100'
+  apiBaseUrl: 'gms-server-rq2s.onrender.com'
 };
